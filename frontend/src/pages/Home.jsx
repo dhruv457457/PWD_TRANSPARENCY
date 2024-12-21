@@ -5,6 +5,8 @@ const Home = () => {
   const navigate = useNavigate();
 
   return (
+    
+  
     <div className="flex flex-col items-center justify-center h-screen bg-gradient-to-r from-blue-500 to-indigo-600 text-white">
       <h1 className="text-4xl font-extrabold mb-4">Welcome to TenderDekho</h1>
       <p className="text-xl text-center mb-6">
